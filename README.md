@@ -1,6 +1,6 @@
 # Mongelt File
 
-Personal portfolio website built with Next.js. Includes a public-facing site and a private admin panel for managing all content. Vibe coded with Cursor and Claude Code.
+Personal portfolio website built with Next.js. Includes a public-facing site and a private admin panel for managing all content.
 
 ## Tech stack
 
